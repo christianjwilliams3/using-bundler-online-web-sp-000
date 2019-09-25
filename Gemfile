@@ -3,9 +3,9 @@ gem "rspec"
 gem "sinatra"
 gem "hashie"
 gem "octokit"
-
+gem "awesomeprint"
  
 group :development do
 gem "pry"
-gem "awesomeprint"
+
 end
