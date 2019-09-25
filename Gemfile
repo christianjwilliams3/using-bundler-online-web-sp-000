@@ -7,4 +7,5 @@ gem "octokit"
  
 group :development do
 gem "pry"
+gem "awesomeprint"
 end
